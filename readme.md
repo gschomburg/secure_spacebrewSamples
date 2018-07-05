@@ -1,11 +1,13 @@
 Spacebrew Secure Server Sample
 ================
+* Button sample code from [https://github.com/Spacebrew/spacebrew.js](https://github.com/Spacebrew/spacebrew.js)
 
 Getting Started
 ---------------  
   
 ### 1. Install Dependencies
-* install the secure fork of spacebrew [found here](https://github.com/gschomburg/spacebrew) This may eventually get merged into spacebrew master. Follow all the install instructions (for the install there's nothing special/different from the main spacebrew branch)
+* get the secure fork of spacebrew [found here](https://github.com/gschomburg/spacebrew) This may eventually get merged into spacebrew master
+* Follow all the install instructions (for the install there's nothing different from the main spacebrew branch)
 * run `npm install` in secure_server folder to install the server that will run the sample
 
 ### 2. Start the Sample Server and Spacebrew
